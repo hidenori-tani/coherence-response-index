@@ -1,5 +1,7 @@
 # Coherence Response Index (CRI)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23229118.svg)](https://doi.org/10.5281/zenodo.23229118)
+
 Code for the article
 
 > Hidenori Tani. **The Coherence Response Index: predicted microRNA targets show no coherent regulation in chemically exposed mouse embryonic stem cells.** *Chemico-Biological Interactions* (2026). https://doi.org/10.1016/j.cbi.2026.112371
@@ -78,7 +80,7 @@ As declared in the article, the analysis code (quantification wrappers, coherenc
 
 ## Citation
 
-Please cite the article above. `CITATION.cff` gives the citation in machine-readable form.
+Please cite the article above. The code is archived on Zenodo: https://doi.org/10.5281/zenodo.23229118 (all versions; v1.0.0, the code used for the article, is https://doi.org/10.5281/zenodo.23229119). `CITATION.cff` gives the citation in machine-readable form.
 
 ## License
 

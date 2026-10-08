@@ -2,6 +2,14 @@ cff-version: 1.2.0
 message: "If you use this software, please cite the article below."
 title: "Coherence Response Index (CRI): code for the toxicogenomic miRNA-target coherence audit"
 version: 1.0.0
+doi: 10.5281/zenodo.23229118
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.23229118
+    description: "Zenodo concept DOI (all versions)"
+  - type: doi
+    value: 10.5281/zenodo.23229119
+    description: "Zenodo DOI of v1.0.0"
 date-released: 2026-10-08
 license: MIT
 repository-code: "https://github.com/hidenori-tani/coherence-response-index"
