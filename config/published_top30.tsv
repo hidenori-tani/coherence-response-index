@@ -1,0 +1,15 @@
+layer	feature	chemical	published_value	value_type	source
+mrna	NM_001177607	benzene	746.6	fold	PLoS2017_RTqPCR_up_top3
+mrna	NM_178734	benzene	570.3	fold	PLoS2017_RTqPCR_up_top3
+mrna	NR_027375	benzene	606.4	fold	PLoS2017_RTqPCR_up_top3
+mrna	NM_001166648	benzene	0.0006	fold	PLoS2017_RTqPCR_down_top3
+mrna	NM_001163553	benzene	0.0003	fold	PLoS2017_RTqPCR_down_top3
+mrna	NM_145978	benzene	0.0007	fold	PLoS2017_RTqPCR_down_top3
+mrna	NM_001164745	benzene	12322	fold	PLoS2017_Table1_up
+mrna	NM_177574	benzene	4950	fold	PLoS2017_Table1_up
+mrna	NM_172778	benzene	1815	fold	PLoS2017_Table1_up
+mirna	mmu-miR-877-5p	benzene	3.7121	log2	TAP2020_Table1_up
+mirna	mmu-miR-494-5p	benzene	2.6985	log2	TAP2020_Table1_up
+mirna	mmu-miR-463-5p	benzene	1.9060	log2	TAP2020_Table1_up
+mirna	mmu-miR-331-5p	benzene	1.6917	log2	TAP2020_Table1_up
+mirna	mmu-miR-410-5p	benzene	1.5599	log2	TAP2020_Table1_up

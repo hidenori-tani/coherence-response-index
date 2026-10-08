@@ -1,0 +1,18 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+*.egg-info/
+.DS_Store
+.venv/
+# generated or downloaded (not redistributed)
+ref/
+results/
+submission_R1/
+config/mirdb_mmu.tsv
+config/targetscan_mmu.tsv
+config/targetscan_mmu_mature.tsv
+# data/: keep only the provenance records
+data/**
+!data/*/
+!data/*/SOURCE.txt
+!data/*/SHA256SUMS.txt
